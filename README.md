@@ -1,2 +1,2 @@
 # KPToDoList
-This is project for learning programming in C#
+This is project for learning programming in C#.
